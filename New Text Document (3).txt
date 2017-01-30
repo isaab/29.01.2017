@@ -1,0 +1,33 @@
+ Proqramlasd?rma paradigmalar?
+   
+1. Imperative paradigm
+2. Functional paradigm
+3. Logic paradigm
+4. Object-oriented paradigm
+
+   Object Oriented Programming
+   
+1. Object
+2. Class
+3. Inheritance
+4. Polymorphism
+5. Abstraction
+6. Encapsulation
+
+
+1-Imperative paradigm
+Komputer elml?rind?, proqramlasd?rma dill?rini t?snif v? bir proqramlasd?rma dilinin xususiyy?tl?rini ifad? etm?k ucun istifad? edil?n bir termindir.
+Umumiyy?tl? ?d?biyyatda prosessual proqramlasd?rma (procedural programming) olaraq da kecm?kd?dir.
+
+2-Functional paradigm
+Proqramlasd?rma paradiqmas?, komputer proqramlasd?rma t?m?l bir t?rzidir.
+Buna n?z?r?n metodologiya, proqram t?minat? muh?ndisliyi probleml?rinin h?llind? istifad? mu?yy?n bir stili.
+Anlay?slarda, proqram?n unsurl?rini t?msil etm?k ucun istifad? soyutlamalarda (obyektl?r, funksiyalar?, d?yis?nl?r, m?hdudlasd?r?r, vs.) v?
+ hesablaman? t?skil add?mlarda (t?yin etm?k, qiym?tl?ndirm? h?mis?likdir, m?lumat ax?n?, vs.) paradiqmalar f?rqlilik gost?r?rl?r.
+
+3-Logic paradigm
+Bununla bagli cox bir sey tapa bilmedim )
+
+4-Object-oriented paradigm
+Bir cox proqramc?n?n qorxaraq yax?nlasmaq ist?m?diyi v? ya yeni baslayanlar?n on fikirli baxd?g? proqramlasd?rma metodolijisi olan OOP (object oriented Programming) [Obyekt Yonumlu Proqramlasd?rma] il? ilk ad?m?m?z? atacag?q.
+ Movzu h?qiq?t?n cox sad? gor?c?ksiniz ki t?xmin etdiyiniz kimi c?tin bir proqramlasd?rma texnikas? deyil.
